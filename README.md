@@ -27,13 +27,18 @@ This portfolio serves as my digital presence, highlighting my work, technical ex
 
 ## 📂 Project Structure
 
-```
+```text
 Portfolio/
+│── images/
+│   ├── calculator.png
+│   ├── hangman.png
+│   ├── profile.png
+│   └── todo.png
 │── index.html
 │── style.css
 │── script.js
 │── resume.pdf
-│── images/
+├── LICENSE
 └── README.md
 ```
 
@@ -55,3 +60,7 @@ Contributions, suggestions, and feedback are welcome. Feel free to fork this rep
 
 ## 👩🏻‍💼 Author 
 Sayantani Sikdar 
+
+## 🪪 Licence 
+
+This project is licensed under the **MIT License**.
