@@ -5,15 +5,14 @@ This portfolio serves as my digital presence, highlighting my work, technical ex
 
 ## ✨ Features
 
-- Responsive Design
-- Clean & Modern UI
-- About Me Section
-- Skills Showcase
-- Projects
-- Achievements
-- Certifications
-- Resume Download
-- Contact Information
+- 📱 Fully Responsive Design
+- 🎨 Modern & Clean User Interface
+- 👩‍💻 About Me Section
+- 💼 Projects Showcase
+- 🛠️ Skills Section
+- 📄 Resume Download
+- 📬 Contact Information
+- ⚡ Smooth Navigation
 
 ## 🚀 Live Demo
 
