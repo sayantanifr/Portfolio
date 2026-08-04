@@ -1,7 +1,3 @@
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
 ## 📖 About
 
 This portfolio serves as my digital presence, highlighting my work, technical expertise, and passion for software development. It is designed to provide visitors with a simple, interactive, and user-friendly experience.
